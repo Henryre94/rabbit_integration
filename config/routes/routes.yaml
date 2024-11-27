@@ -1,0 +1,4 @@
+message_send:
+    path: /message/send
+    controller: App\Controller\MessageController::sendMessage
+    methods: [GET]
