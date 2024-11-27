@@ -1,0 +1,3 @@
+Demo Project to test the integration from Symfony and RabbitMQ!
+
+Still in progress....
